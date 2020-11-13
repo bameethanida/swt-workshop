@@ -1,0 +1,4 @@
+*.html
+*.xml
+env/
+.DS_Store
